@@ -1,4 +1,4 @@
-<div align="center"><h1>Alfa Cortex Bypass<br>Beta</h1></div>
+<div align="center"><h1>Alfa Cortex Bypass<br>(Beta)</h1></div>
 <br>
 <div align="center">
   
