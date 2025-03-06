@@ -2,7 +2,8 @@
 <br>
 
 <div align="center">
-
+  
+![license](https://img.shields.io/badge/LICENSE-GPL2.0-ebcb8b?style=flat-square)
 ![version](https://img.shields.io/badge/VERSION-1.0.0-a3be8c?style=flat-square)
 
 </div>
