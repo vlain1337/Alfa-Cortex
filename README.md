@@ -12,5 +12,5 @@
 <br>
 <div align="center"><h1>Changelog</h1></h1></div>
 <samp>
-* BSSN Login Gui
+
 </samp>
