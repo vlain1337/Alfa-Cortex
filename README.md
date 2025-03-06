@@ -19,7 +19,7 @@
 <br>
 <div align="center"><h1>Original Alfa Scan Runtime Result</h1></h1></div>
 <div align="center">
-<img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/scan_virustotal.png">
+<img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/scan_original-alfa_virustotal.png">
 </div>
 <div align="center"><h1>Bypass Features</h1></h1></div>
 <samp>
