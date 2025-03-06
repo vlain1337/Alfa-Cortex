@@ -1,6 +1,5 @@
 <div align="center"><h1>Alfa Cortex Bypass</h1></h1></div>
 <br>
-Alfa Cortex is 
 <div align="center">
   
 ![license](https://img.shields.io/badge/LICENSE-GPL2.0-ebcb8b?style=flat-square)
