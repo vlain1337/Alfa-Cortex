@@ -12,7 +12,7 @@
 <samp>
 
 * 403
-* 404
+* 404/Auto Delete
 * Blank/0byte/0kb
 * Litespeed & Cloudflare
   
