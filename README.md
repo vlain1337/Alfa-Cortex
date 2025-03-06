@@ -1,6 +1,6 @@
 <div align="center"><h1>Alfa Cortex Bypass</h1></h1></div>
 <br>
-
+Alfa Cortex is 
 <div align="center">
   
 ![license](https://img.shields.io/badge/LICENSE-GPL2.0-ebcb8b?style=flat-square)
@@ -35,7 +35,9 @@ https://kleenscan.com/scan_result/ce6b6465bb331c64270f7741585dc0e4a920c06343c2d0
 
 * 403
 * 404/Auto Delete
+* 500
 * Blank/0byte/0kb
+* Auto Downloaded
 * Litespeed & Cloudflare
   
 </samp>
