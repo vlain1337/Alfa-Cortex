@@ -34,7 +34,7 @@
 </samp>
 <div align="center"><h1>Changelog</h1></h1></div>
 <samp>
-<b>7/03/2025</b>
+7/03/2025
   
 * Improved login GUI
 * Replace 500 login with invisible login
