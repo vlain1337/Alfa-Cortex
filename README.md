@@ -23,7 +23,5 @@
 ## Disclaimer
 
 This repository is for educationnal purposes only.
-
 <br>
-
 Malicious usage of this repository are not the author responsibility.
