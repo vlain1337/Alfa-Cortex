@@ -14,7 +14,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/scan_virustotal.png">
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/scan_metadefender.png">
-<img width="400" height="400" src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/scan_kleenscan.png">
+<img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/scan_kleenscan.png">
 <br><br>
   
 ```
