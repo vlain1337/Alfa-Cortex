@@ -24,9 +24,7 @@
 * 404/Auto Delete
 * Blank/0byte/0kb
 * Litespeed & Cloudflare
-  
 </samp>
-
 <br>
 
 ## Disclaimer
