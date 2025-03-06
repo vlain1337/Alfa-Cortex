@@ -35,7 +35,9 @@
 <div align="center"><h1>Changelog</h1></h1></div>
 <samp>
 
-* 
+* Improved login GUI
+* Replace 500 login with invisible login
+* Fixed minor error
   
 </samp>
 <br>
