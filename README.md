@@ -32,6 +32,12 @@
 * Litespeed & Cloudflare
   
 </samp>
+<div align="center"><h1>Changelog</h1></h1></div>
+<samp>
+
+* -
+  
+</samp>
 <br>
 
 ## Disclaimer
