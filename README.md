@@ -10,7 +10,6 @@
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/login_gui.png">
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/main_ui.png">
 </div>
-
 <br>
 <div align="center"><h1>Bypass Features</h1></h1></div>
 <samp>
