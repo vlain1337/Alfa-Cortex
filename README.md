@@ -32,10 +32,12 @@ https://kleenscan.com/scan_result/ce6b6465bb331c64270f7741585dc0e4a920c06343c2d0
 </div>
 <div align="center"><h1>Bypass Features</h1></h1></div>
 <samp>
+
 * 403
 * 404/Auto Delete
 * Blank/0byte/0kb
 * Litespeed & Cloudflare
+  
 </samp>
 <br>
 
