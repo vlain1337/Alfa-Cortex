@@ -11,6 +11,12 @@
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/main_ui.png">
 </div>
 <br>
+<div align="center"><h1>Scan Runtime Result</h1></h1></div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/scan_virustotal.png">
+<img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/scan_kleenscan.png">
+<img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/scan_metadefender.png">
+</div>
 <div align="center"><h1>Bypass Features</h1></h1></div>
 <samp>
 
