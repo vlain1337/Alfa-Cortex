@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-  
+
 ![version](https://img.shields.io/badge/VERSION-1.0.0-a3be8c?style=flat-square)
 
 </div>
@@ -15,6 +15,5 @@
 * 404
 * Blank/0byte/0kb
 * Litespeed & Cloudflare
-* 
   
 </samp>
