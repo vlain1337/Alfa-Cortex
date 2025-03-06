@@ -38,6 +38,7 @@
   
 * Improved login GUI
 * Replace 500 login with invisible login
+* Removed unnecessary function
 * Fixed minor error
   
 </samp>
