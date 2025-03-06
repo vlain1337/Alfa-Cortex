@@ -1,2 +1,2 @@
-# alfa-bypass
-Improved &amp; Modified Alfa Shell Backdoor to evade &amp; Bypass WAF
+<div align="center"><h1>Alfa Cortex Bypass</h1></h1></div>
+<br>
