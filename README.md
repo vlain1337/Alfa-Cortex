@@ -10,14 +10,14 @@
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/main_ui.png">
 </div>
 <br>
-<div align="center"><h1>Scan Runtime Result</h1></div>
+<div align="center"><h1>Scan Result</h1></div>
 <div align="center">
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/scan_virustotal.png">
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/scan_metadefender.png">
 <img width="400" height="400" src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/scan_kleenscan.png">
 </div>
 <br>
-<div align="center"><h1>Original Alfa Scan Runtime Result</h1></div>
+<div align="center"><h1>Original Alfa Scan Result</h1></div>
 <div align="center">
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/scan_original-alfa_virustotal.png">
 </div>
