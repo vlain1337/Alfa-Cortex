@@ -1,4 +1,4 @@
-<div align="center"><h1>Alfa Cortex Bypass<br>(Beta)</h1></div>
+<div align="center"><h1>Alfa Cortex Bypass<br>(coming soon)</h1></div>
 <br>
 <div align="center">
   
@@ -34,6 +34,10 @@
 </samp>
 <div align="center"><h1>Changelog</h1></div>
 <samp>
+8/03/2025
+  
+* Fixed inject backdoor create_function() error
+
 7/03/2025
   
 * Improved login GUI
