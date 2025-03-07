@@ -36,7 +36,7 @@
 
 ```
 8/03/2025
-* Fixed inject backdoor create_function() error
+* Fixed Inject Backdoor create_function() error
 
 7/03/2025
 * Improved login GUI
