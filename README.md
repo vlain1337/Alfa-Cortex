@@ -33,9 +33,9 @@
   
 </samp>
 <div align="center"><h1>Changelog</h1></div>
-<samp>
+
+```
 8/03/2025
-  
 * Fixed inject backdoor create_function() error
 
 7/03/2025
@@ -43,8 +43,7 @@
 * Replace 500 login with invisible login
 * Removed unnecessary function
 * Fixed minor error
-  
-</samp>
+```
 <br>
 
 ## Disclaimer
