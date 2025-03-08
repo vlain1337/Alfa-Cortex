@@ -6,7 +6,7 @@
 ![version](https://img.shields.io/badge/VERSION-1.0.0-a3be8c?style=flat-square)
 </div>
 <br>
-Alfa Cortex is an improved and modified version of the Alfa Shell backdoor, specifically designed to evade and bypass WAF with better version, enhanced stealth and efficiency.<br>Engineered for power and versatility, it integrates advanced techniques to remain undetected while maintaining full control over the target environment, Alfa Cortex is built to push the limits of webshell penetration, offering a high-performance, adaptable, and undetectable experience.<br>
+Alfa Cortex is an improved and modified version of the Alfa Shell backdoor, specifically designed to evade and bypass WAF with better version, enhanced stealth and efficiency.<br>Engineered for power and versatility, it integrates advanced techniques to remain undetected while maintaining full control over the target environment, Alfa Cortex is built to push the limits of webshell penetration, offering a high-performance, adaptable, and undetectable experience.<br><br>
 Key Features:
 
 * WAF Bypass: Optimized to evade security filters and firewalls.
