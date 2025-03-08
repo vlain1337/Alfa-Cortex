@@ -35,7 +35,7 @@
 <div align="center"><h1>Note</h1></div>
 
 ```
-you can't change Alfa Cortex settings from the shell
+you can't change Alfa Cortex settings through the webshell
 this caused by the bypass function.
 to change Alfa Cortex settings you must change it through the source code
 go open the Alfa Cortex source code and find this string "// settings"
