@@ -1,10 +1,11 @@
 <div align="center"><h1>Alfa Cortex Bypass<br>(coming soon)</h1></div>
 <br>
 <div align="center">
+  
 ![license](https://img.shields.io/badge/LICENSE-GPL2.0-ebcb8b?style=flat-square)
 ![version](https://img.shields.io/badge/VERSION-1.0.0-a3be8c?style=flat-square)
 <br>
-<br>
+Alfa Cortex is an improved and modified version of the Alfa Shell backdoor, specifically designed to evade and bypass WAF with better version, enhanced stealth and efficiency.<br>Engineered for power and versatility, it integrates advanced techniques to remain undetected while maintaining full control over the target environment.
 <div align="center"><h1>Preview</h1></div>
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/login.png">
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/main.png">
