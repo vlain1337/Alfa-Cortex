@@ -60,7 +60,7 @@ you can change the settings from there.
 
 ```
 7/03/2025
-* Fixed Inject Backdoor create_function() error
+* Fixed Inject Backdoor/Install Backdoor create_function() error
 * PHP 8 support
 
 6/03/2025
