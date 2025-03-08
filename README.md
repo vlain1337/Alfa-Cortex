@@ -30,7 +30,7 @@
 * Blank/0byte/0kb
 * Auto Downloaded
 * Litespeed & Cloudflare
-  
+
 </samp>
 <div align="center"><h1>Changelog</h1></div>
 
