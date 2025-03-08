@@ -15,6 +15,7 @@ Key Features:
 * Feature-Rich Interface: Provides extensive functionality while maintaining simplicity.
 <br><br>
 There will be 2 versions of Alfa Cortex:
+
 * Alfa Cortex bypass with minimal features
 * Alfa Cortex bypass without features
 <br>
