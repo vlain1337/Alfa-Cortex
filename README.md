@@ -16,9 +16,11 @@ Key Features:
 <br><br>
 
 There will be 2 versions of Alfa Cortex:
-
 * Alfa Cortex bypass with minimal features
 * Alfa Cortex bypass without features
+
+Minimal features means that only a few features are present or features that are definitely be used, other useless features are removed to reduce the size of the file.<br>
+Without features means there are no features at all other than Settings and Logout.
 
 <div align="center"><h1>Preview</h1></div>
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/login.png">
