@@ -13,7 +13,7 @@ Key Features:
 * Enhanced Stealth: Improved obfuscation and anti-detection mechanisms.
 * Powerful Execution: Supports a wide range of commands and exploits.
 * Feature-Rich Interface: Provides extensive functionality while maintaining simplicity.
-
+<br><br>
 there will be 2 versions of Alfa Cortex:
 
 * Alfa Cortex bypass with minimal features
