@@ -6,6 +6,7 @@
 ![version](https://img.shields.io/badge/VERSION-1.0.0-a3be8c?style=flat-square)
 <br>
 <br>
+<div align="center"><h1>Preview</h1></div>
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/login.png">
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/main.png">
 </div>
