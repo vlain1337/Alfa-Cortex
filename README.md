@@ -18,7 +18,7 @@ Key Features:
 There will be 2 versions of Alfa Cortex:
 
 * Alfa Cortex bypass with minimal features
-* Alfa Cortex bypass without features
+* Alfa Cortex bypass without features (Alfa Cortex Mini)
 <br>
 Minimal features means that only a few features are present or features that are definitely be used, other useless features are removed to reduce the size of the file.<br>
 Without features means there are no features at all other than Settings and Logout.<br>
