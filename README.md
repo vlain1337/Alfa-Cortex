@@ -35,10 +35,11 @@
 <div align="center"><h1>Changelog</h1></div>
 
 ```
-8/03/2025
-* Fixed Inject Backdoor create_function() error
-
 7/03/2025
+* Fixed Inject Backdoor create_function() error
+* PHP 8 support
+
+6/03/2025
 * Improved login GUI
 * Replace 500 login with invisible login
 * Removed unnecessary function
