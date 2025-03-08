@@ -32,6 +32,15 @@
 * Litespeed & Cloudflare
 
 </samp>
+<div align="center"><h1>Note</h1></div>
+
+```
+you can't change Alfa Cortex settings from the shell
+this caused by the bypass function.
+to change Alfa Cortex settings you must change it through the source code
+go open the Alfa Cortex source code and find this string "// settings"
+you can change the setting from there.
+```
 <div align="center"><h1>Changelog</h1></div>
 
 ```
