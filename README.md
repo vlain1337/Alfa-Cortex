@@ -49,6 +49,6 @@
 
 ## Disclaimer
 
-This repository is for educationnal purposes only.
+This repository is for educationnal purposes & security research purposes only.
 <br>
 Any malicious usage of this repository or by using Alfa Cortex Webshell are not the author responsibility.
