@@ -14,6 +14,11 @@ Key Features:
 * Powerful Execution: Supports a wide range of commands and exploits.
 * Feature-Rich Interface: Provides extensive functionality while maintaining simplicity.
 
+there will be 2 versions of Alfa Cortex:
+
+* Alfa Cortex bypass with minimal features
+* Alfa Cortex bypass without features
+
 <div align="center"><h1>Preview</h1></div>
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/login.png">
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/main.png">
