@@ -54,7 +54,7 @@ both have the same bypass function, that makes the difference only in the featur
 
 ```
 you can't change Alfa Cortex settings through the webshell
-this caused by the bypass function, and the size will be bigger then the original Alfa Webshell
+this caused by the bypass function.
 to change Alfa Cortex settings you must change it through the source code
 go open the Alfa Cortex source code and find this string "// settings"
 you can change the settings from there.
