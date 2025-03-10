@@ -23,7 +23,7 @@ There will be 2 versions of Alfa Cortex:
 Minimal features means that only a few features are present or features that are definitely be used, other useless features are removed to reduce the size of the file.<br>
 Without features means there are no features at all other than Settings and Logout.<br>
 both have the same bypass function, that makes the difference only in the features.
-<div align="center"><h1>Preview</h1></div>
+<div align="center"><h1></h1></div>
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/login.png">
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/main.png">
 </div>
