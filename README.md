@@ -30,28 +30,6 @@ Key Features:
 * Litespeed & Cloudflare
 
 </samp>
-<div align="center"><h1>Note</h1></div>
-
-```
-you can't change Alfa Cortex settings through the webshell
-this caused by the bypass function.
-to change Alfa Cortex settings you must change it through the source code
-go open the Alfa Cortex source code and find this string "// settings"
-you can change the settings from there.
-```
-<div align="center"><h1>Changelog</h1></div>
-
-```
-7/03/2025
-* Fixed Inject Backdoor/Install Backdoor create_function() error
-* PHP 8 support
-
-6/03/2025
-* Improved login GUI
-* Replace 500 login with invisible login
-* Removed unnecessary function
-* Fixed minor error
-```
 <br>
 
 ## Disclaimer
