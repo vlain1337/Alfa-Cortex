@@ -17,6 +17,7 @@ Key Features:
 <div align="center"><h1></h1></div>
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/login-1.png">
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/login-2.png">
+<img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/main.png">
 </div>
 <br>
 <div align="center"><h1>Bypass Features</h1></div>
