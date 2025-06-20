@@ -13,6 +13,7 @@ Key Features:
 * Enhanced Stealth: Improved obfuscation and anti-detection mechanisms.
 * Powerful Execution: Supports a wide range of commands and exploits.
 * Feature-Rich Interface: Provides extensive functionality while maintaining simplicity.
+* Invisible Login: Using invisible login to avoid being detected as malicious a file.
 <br>
 <div align="center"><h1></h1></div>
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/login-1.png">
