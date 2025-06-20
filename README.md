@@ -3,7 +3,7 @@
 <div align="center">
   
 ![license](https://img.shields.io/badge/LICENSE-GPL2.0-ebcb8b?style=flat-square)
-![version](https://img.shields.io/badge/VERSION-1.0.0-a3be8c?style=flat-square)
+![version](https://camo.githubusercontent.com/375cefe6fef57f1709b07503c1f4f6e999ba5e3c3d9758739b99a49b871fa2e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d616c6c2d626c7565)
 </div>
 <br>
 Alfa Cortex is an improved and modified version of the Alfa Shell backdoor, specifically designed to evade and bypass WAF with better version, enhanced stealth and efficiency.<br>Engineered for power and versatility, it integrates advanced techniques to remain undetected while maintaining full control over the target environment, Alfa Cortex is built to push the limits of webshell penetration, offering a high-performance, adaptable, and undetectable experience.<br><br>
