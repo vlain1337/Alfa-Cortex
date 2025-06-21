@@ -34,9 +34,9 @@ Key Features:
 </div>
 <br>
 
-## Important!
+<div><h1>Important!</h1></div>
 
-Default Password: `cortex1337`
+Default Password: `cortex1337`<br>
 feel free to contribute with us!
 <br><br>
 
