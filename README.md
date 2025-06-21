@@ -15,12 +15,6 @@ Key Features:
 * Feature-Rich Interface: Provides extensive functionality while maintaining simplicity.
 * Invisible Login: Using invisible login to avoid being detected as malicious a file.
 <br>
-<div align="center"><h1></h1></div>
-<img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/login-1.png">
-<img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/login-2.png">
-<img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/main-shell.png">
-</div>
-<br>
 <div align="center"><h1>Bypass Features</h1></div>
 <samp>
 
@@ -32,6 +26,16 @@ Key Features:
 * Litespeed & Cloudflare
 
 </samp>
+<br>
+<div align="center"><h1></h1></div>
+<img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/login-1.png">
+<img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/login-2.png">
+<img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/main-shell.png">
+</div>
+<br>
+<div><h1>Important!</h1></div>
+Default Password: cortex1337<br>
+feel free to contribute with us!
 <br>
 
 ## Disclaimer
