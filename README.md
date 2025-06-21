@@ -33,8 +33,8 @@ Key Features:
 <img src="https://raw.githubusercontent.com/vlain1337/Alfa-Cortex/refs/heads/main/img/main-shell.png">
 </div>
 <br>
-<div><h1>Important!</h1></div>
-Default Password: cortex1337<br>
+## Important!
+Default Password: `cortex1337`
 feel free to contribute with us!
 <br><br>
 
