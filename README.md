@@ -34,7 +34,7 @@ Key Features:
 </div>
 <br>
 <div><h1>Important!</h1></div>
-Default Password: `cortex1337`<br>
+Default Password: `?toolname`<br>
 feel free to contribute with us!
 <br><br>
 
